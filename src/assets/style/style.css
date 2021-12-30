@@ -1,0 +1,8 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+@media (max-width: 1156px) and (min-width: 1007px) {
+  .responsivenone {
+    display: none !important;
+  }
+}

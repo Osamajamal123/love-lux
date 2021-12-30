@@ -1,0 +1,367 @@
+.backgroundImage {
+  background: linear-gradient(to bottom, #eaeaea, #f9f9f9 46%, #ede9e9);
+}
+.backgroundImageend {
+  background: linear-gradient(to bottom, #ede9e9, #e5e4e4 46%, #ede9e9);
+}
+.backgroundwhite {
+  background-color: #f7f7f7;
+}
+.lifeback {
+  background: url(../assets/images/LIFE@3x.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 70px;
+  width: 200px;
+  background-position: left;
+}
+.travelback {
+  background: url(../assets/images/Travel.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 70px;
+  width: 200px;
+  background-position: left;
+}
+.naturebackground {
+  background: url(../assets/images/mountain.png);
+  background-size: cover;
+  width: 100%;
+  height: 400px;
+  background-repeat: no-repeat;
+}
+.treesbackground {
+  background: url(../assets/images/tree.png);
+  background-size: cover;
+  width: 100%;
+  height: 400px;
+  background-repeat: no-repeat;
+}
+.womenback {
+  background-image: url(../assets/images/women.png);
+  background-size: cover;
+  width: 100%;
+  height: 400px;
+  background-repeat: no-repeat;
+}
+.tableback {
+  background-image: url(../assets/images/table.png);
+  background-size: cover;
+  width: 100%;
+  height: 400px;
+  background-repeat: no-repeat;
+}
+.healthback {
+  background-image: url(../assets/images/Health@3x.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 70px;
+  width: 200px;
+  background-position: left;
+}
+.blogsback {
+  background-color: #f7f7f7;
+}
+.blogback {
+  background-image: url(../assets/images/Blogs@3x.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 150px;
+  width: 200px;
+  background-position: center;
+}
+.dotdiv {
+  border: 2px dashed #95a6b4;
+  background: #95a6b4;
+  height: 4px;
+  width: 4px;
+  margin-left: 3px;
+  margin-bottom: 2px;
+}
+.dotdiv2 {
+  border: 2px dashed #989ca0;
+  background: #989ca0;
+  height: 9px;
+  width: 9px;
+}
+.shipsback {
+  background: url(../assets/images/ships.png);
+  background-size: cover;
+  background-position: center;
+  height: 900px;
+  background-repeat: no-repeat;
+}
+.mountainbackgroundimg {
+  background: url(../assets/images/peak.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: contain;
+  height: 600px;
+}
+.jetback {
+  background: url(../assets/images/jet.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: contain;
+  height: 600px;
+}
+.stoneback {
+  background: url(../assets/images/stone.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: contain;
+  height: 500px;
+}
+.writingback {
+  background: url(../assets/images/writing.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: contain;
+  height: 420px;
+}
+.girlsback {
+  background: url(../assets/images/girls.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: contain;
+  height: 420px;
+}
+.smilingback {
+  background: url(../assets/images/person.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: contain;
+  height: 500px;
+}
+.sectionsixback {
+  backdrop-filter: blur(30px);
+  box-shadow: 0 0 99px 0 rgb(65 65 65 / 15%);
+  background-color: #fff;
+  border-radius: 30px;
+}
+.servicesback {
+  background: url(../assets/images/SERVICES@3x.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 150px;
+  background-position: left;
+  width: 692px;
+}
+.sectionsixmountain {
+  background: url(../assets/images/mountain.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: contain;
+  height: 400px;
+  background-position: center;
+}
+.sectionseven {
+  background: #fcfcfc;
+}
+.sectioneight {
+  background-color: #f6f6f6;
+}
+.sectioneightbackimg {
+  background: url(../assets/images/31214.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: contain;
+  height: 400px;
+  background-position: top;
+}
+
+/* .react-multi-carousel-track {
+    list-style: none;
+    padding: 0;
+    width: 100%!important;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    transform-style: preserve-3d;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    will-change: transform,transition;
+} */
+.sectionnine {
+    background: linear-gradient(to bottom, #eaeaeacf, #f9f9f9 46%, #ede9e9);
+}
+.picturesBack {
+  background-image: url(../assets/images/PICTURES@3x.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 109px;
+  background-position: center;
+  background-position: center;
+}
+.image1{
+    background-image: url(../assets/images/person1.png);
+    background-size: contain;
+    width: 75%;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.image2{
+    background-image: url(../assets/images/person2.png);
+    background-size: contain;
+    width: 75%;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.image3{
+    background-image: url(../assets/images/person3.png);
+    background-size: contain;
+    width: 75%;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.image4{
+    background-image: url(../assets/images/person4.png);
+    background-size: contain;
+    width: 75%;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.image5{
+    background-image: url(../assets/images/person5.png);
+    background-size: contain;
+    width: 75%;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.image6{
+    background-image: url(../assets/images/person6.png);
+    background-size: contain;
+    width: 75%;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.image7{
+    background-image: url(../assets/images/person7.png);
+    background-size: contain;
+    width: 75%;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.image8{
+    background-image: url(../assets/images/person8.png);
+    background-size: contain;
+    width: 75%;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.image9{
+    background-image: url(../assets/images/person9.png);
+    background-size: contain;
+    width: 75%;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.image10{
+    background-image: url(../assets/images/person10.png);
+    background-size: contain;
+    width: 75%;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+/* .sectionnine .hoverdiv{
+    display: none;
+}
+.sectionnine .hoverdiv:hover{
+display: block;
+} */
+.imageemail{
+    background-image: url(../assets/images/email1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 350px;
+}
+.sectionEleven{
+background: #fafafa;
+}
+.overviewimg{
+  background: url(../assets/images/Overview@3x.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 145px;
+  background-position: center;
+}
+.carouselcolor{
+  background: #f5f5f5;
+  height: 400px;
+}
+.blackdot{
+  background: black;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+}
+.absoluteDiv{
+  position: absolute;
+  width: 470px;
+  /* top: -20px; */
+  margin-top: -100px;
+}
+.radiusdiv{
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+}
+.picsize{
+width: 100%;
+height: 390px;
+}
+.packageimg{
+  background: url(../assets/images/Package@3x.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 140px;
+  background-position: center;
+}
+.bg-red{
+  background-color: #f36732 !important;
+}
+.faqsback{
+  background: url(../assets/images/FAQ@3x.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 152px;
+  background-position: center;
+}
+.footerback{
+  background: url(../assets/images/footer.png);
+  background-repeat: no-repeat;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.roundedsides{
+  border-radius: 30px;
+  box-shadow: 0 0 99px 0 rgb(0 0 0 / 15%);
+  background-color: #f7f7f7;
+}
+.sectiontworounded{
+  backdrop-filter: blur(30px);
+  box-shadow: 0 0 99px 0 rgb(65 65 65 / 15%);
+  background-color: #f7f7f7;
+  border-radius: 30px;
+}
+.carouseldots .react-multi-carousel-list {
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  position: relative;
+  height: 180px!important;
+  margin-top: -42px!important;
+}
+
